@@ -1,6 +1,6 @@
 # Hyperledger Fabric Test Network
 
-A complete Hyperledger Fabric test network with 2 organizations (Org1 and Org2), 1 peer per organization, 1 Raft ordering node, CouchDB, and Hyperledger Explorer.
+A complete Hyperledger Fabric test network with 2 organizations, 1 peer per organization, 1 Raft ordering node, CouchDB, and Hyperledger Explorer.
 
 ## Quick Start
 
@@ -9,6 +9,7 @@ A complete Hyperledger Fabric test network with 2 organizations (Org1 and Org2),
 - Docker & Docker Compose
 - Node.js 18+
 - jq
+- fabric binaries installed properly with env vars set properly
 
 ### One-Command Setup
 
