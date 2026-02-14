@@ -15,8 +15,8 @@ A complete Hyperledger Fabric test network with 2 organizations, 1 peer per orga
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <repository-name>
+git clone https://github.com/Sushil-19/RAFT_network_Fabric.git
+cd RAFT_network_Fabric
 
 # Make script executable
 chmod +x chain.sh
